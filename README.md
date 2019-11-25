@@ -4,11 +4,10 @@ This project is a Proof of Concept for a License Plate Recognition developed for
 
 This is an Embedded Systems Project designed to do the following:
 
-1) Utlitize a Raspberry PI for computing
-2) Takes Picture Automatically when an IR Sensor is activated
-3) Uploads the Picture to OpenALPR Server 
-4) Receives the processed Car Details
-5) Feeds the Car Info to Waves Car Wash's POS. 
+1) Capture image automatically when an Infra Red Sensor is activated
+2) Upload the captured image to OpenALPR Server for Image Processing
+3) Receive the processed car details
+4) Send the received car details to Waves Car Wash's POS. 
 
 # 1. Image Depictions
 
