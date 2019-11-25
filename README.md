@@ -13,16 +13,22 @@ This is an Embedded Systems Project designed to do the following:
 # 1. Hardware Description
 
 <img align="left" width="300" height="400" src="/images/prototypeFV.jpg">
+<br /> 
 
 <img align="left" width="300" height="400" src="/images/prototypeBV.jpg">
+<br /> 
 
 <img align="left" width="400" height="300" src="/images/prototypeIV.jpg">
+<br /> 
 
 <img align="left" width="300" height="400" src="/images/prototypeLEDs.jpg">
+<br /> 
 
 <img align="left" width="400" height="300" src="/images/outputPI.jpg">
+<br /> 
 
 <img align="left" width="300" height="400" src="/images/outputPOS.jpg">
+<br /> 
 
 # 2. Software Description
 Utilizes Python
