@@ -20,5 +20,9 @@ This is an Embedded Systems Project designed to do the following:
 
 ![Prototype LEDs](/images/prototypeLEDs.jpg)
 
+![Output PI](/images/outputPI.jpg)
+
+![Output POS](/images/outputPOS.jpg)
+
 # 2. Software Description
 Utilizes Python
