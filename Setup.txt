@@ -1,0 +1,6 @@
+Install Raspberry Pi
+Enable Camera, SSH and GPIO in Preferences 
+Check if python is installed
+sudo apt-get install tightvncserver
+sudo apt-get install xrdp
+192.168.0.24 
