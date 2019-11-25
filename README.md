@@ -13,19 +13,20 @@ This is an Embedded Systems Project designed to do the following:
 # 1. Image Depictions
 
 # 1.1 Prototype Front View 
-<img align="left" width="300" height="400" src="/images/prototypeFV.jpg">
+<img align="left" width="300" height="400" src="/images/prototypeFV.jpg">  
 
 # 1.2 Prototype Back View
-<img align="left" width="300" height="400" src="/images/prototypeBV.jpg">
+<img align="left" width="300" height="400" src="/images/prototypeBV.jpg">  
 
 # 1.3 Prototype Inside View
-<img align="left" width="400" height="300" src="/images/prototypeIV.jpg">
+<img align="left" width="400" height="300" src="/images/prototypeIV.jpg">  
 
 # 1.4 Prototype LEDs
-<img align="left" width="300" height="400" src="/images/prototypeLEDs.jpg">
+<img align="left" width="300" height="400" src="/images/prototypeLEDs.jpg">  
 
 # 1.5 Output from Raspberry PI
-<img align="left" width="400" height="300" src="/images/outputPI.jpg">
+<img align="left" width="400" height="300" src="/images/outputPI.jpg">  
 
 # 1.6 Output from Waves Pocket POS
-<img align="left" width="300" height="400" src="/images/outputPOS.jpg">
+<img align="left" width="300" height="400" src="/images/outputPOS.jpg">  
+
