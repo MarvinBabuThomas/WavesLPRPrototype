@@ -10,25 +10,22 @@ This is an Embedded Systems Project designed to do the following:
 4) Receives the processed Car Details
 5) Feeds the Car Info to Waves Car Wash's POS. 
 
-# 1. Hardware Description
+# 1. Image Depictions
 
+# 1.1 Prototype Front View 
 <img align="left" width="300" height="400" src="/images/prototypeFV.jpg">
-<br /> 
 
+# 1.2 Prototype Back View
 <img align="left" width="300" height="400" src="/images/prototypeBV.jpg">
-<br /> 
 
+# 1.3 Prototype Inside View
 <img align="left" width="400" height="300" src="/images/prototypeIV.jpg">
-<br /> 
 
+# 1.4 Prototype LEDs
 <img align="left" width="300" height="400" src="/images/prototypeLEDs.jpg">
-<br /> 
 
+# 1.5 Output from Raspberry PI
 <img align="left" width="400" height="300" src="/images/outputPI.jpg">
-<br /> 
 
+# 1.6 Output from Waves Pocket POS
 <img align="left" width="300" height="400" src="/images/outputPOS.jpg">
-<br /> 
-
-# 2. Software Description
-Utilizes Python
