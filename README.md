@@ -12,20 +12,15 @@ This is an Embedded Systems Project designed to do the following:
 
 # 1. Image Depictions
 
-<img align="center" width="600" height="800" src="/images/prototypeFV.jpg">  
+<img align="left" width="270" height="360" src="/images/prototypeFV.jpg">  
 
+<img align="left" width="270" height="360" src="/images/prototypeBV.jpg">  
 
-<img align="center" width="600" height="800" src="/images/prototypeBV.jpg">  
+<img align="left" width="270" height="360" src="/images/prototypeLEDs.jpg">    
 
+<img align="left" width="800" height="600" src="/images/prototypeIV.jpg"> 
 
-<img align="center" width="800" height="600" src="/images/prototypeIV.jpg">  
+<img align="left" width="400" height="800" src="/images/outputPOS.jpg">  
 
-
-<img align="center" width="600" height="800" src="/images/prototypeLEDs.jpg">    
-
-
-<img align="center" width="400" height="800" src="/images/outputPOS.jpg">  
-
-
-<img align="center" width="900" height="450" src="/images/outputPI.jpg">  
+<img align="left" width="900" height="450" src="/images/outputPI.jpg">  
 
