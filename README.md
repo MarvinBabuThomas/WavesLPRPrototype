@@ -15,9 +15,9 @@ This is an Embedded Systems Project designed to do the following:
 
 <img align="center" width="330" height="460" src="/images/prototypeBV.jpg">  
 
-<img align="center" width="330" height="460" src="/images/prototypeLEDs.jpg">  
+<img align="center" width="330" height="440" src="/images/prototypeLEDs.jpg">  
 
-<img align="center" width="330" height="660" src="/images/outputPOS.jpg">  
+<img align="center" width="330" height="520" src="/images/outputPOS.jpg">  
 
 <img align="center" width="1000" height="450" src="/images/outputPI.jpg">  
 
