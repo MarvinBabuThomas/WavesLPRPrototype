@@ -10,3 +10,15 @@ This is an Embedded Systems Project designed to do the following:
 4) Receives the processed Car Details
 5) Feeds the Car Info to Waves Car Wash's POS. 
 
+# 1. Hardware Description
+
+![Prototype Front View](/images/prototypeFV.jpg)
+
+![Prototype Back View](/images/prototypeBV.jpg)
+
+![Prototype Inside View](/images/prototypeIV.jpg)
+
+![Prototype LEDs](/images/prototypeLEDs.jpg)
+
+# 2. Software Description
+Utilizes Python
