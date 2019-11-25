@@ -13,6 +13,8 @@ This is an Embedded Systems Project designed to do the following:
 # 1. Hardware Description
 
 ![Prototype Front View](/images/prototypeFV.jpg)
+<img align="left" width="100" height="100" src="/images/prototypeFV.jpg">
+
 
 ![Prototype Back View](/images/prototypeBV.jpg)
 
