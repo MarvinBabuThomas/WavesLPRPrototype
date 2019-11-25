@@ -9,3 +9,4 @@ This is an Embedded Systems Project designed to do the following:
 3) Uploads the Picture to OpenALPR Server 
 4) Receives the processed Car Details
 5) Feeds the Car Info to Waves Car Wash's POS. 
+
